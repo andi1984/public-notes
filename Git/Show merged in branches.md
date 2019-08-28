@@ -1,0 +1,3 @@
+```sh
+git branch --merged
+```
